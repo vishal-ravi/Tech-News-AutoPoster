@@ -23,8 +23,8 @@ Follow these steps to set up and run the Tech News AutoPoster.
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/tech-news-autoposter.git
-    cd tech-news-autoposter
+    git clone https://github.com/vishal-ravi/Tech-News-AutoPoster.git
+    cd Tech-News-AutoPoster
     ```
 
 2. **Create a Virtual Environment**:
